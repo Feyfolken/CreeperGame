@@ -1,11 +1,9 @@
 PODS:
-  - LiteRoute (2.1.21)
   - Swinject (2.6.2)
   - SwinjectStoryboard (2.2.0):
     - Swinject (~> 2.6)
 
 DEPENDENCIES:
-  - LiteRoute (from `https://github.com/SpectralDragon/LiteRoute.git`)
   - Swinject (~> 2.6.2)
   - SwinjectStoryboard
 
@@ -14,20 +12,10 @@ SPEC REPOS:
     - Swinject
     - SwinjectStoryboard
 
-EXTERNAL SOURCES:
-  LiteRoute:
-    :git: https://github.com/SpectralDragon/LiteRoute.git
-
-CHECKOUT OPTIONS:
-  LiteRoute:
-    :commit: b0c65a5a894489e38eb2bdda1c8977a22d824ff0
-    :git: https://github.com/SpectralDragon/LiteRoute.git
-
 SPEC CHECKSUMS:
-  LiteRoute: 0de115c90e3d8927ba8ae039f13a3b8a41a1ead5
   Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
   SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
 
-PODFILE CHECKSUM: 20e005af2253de90b0bc85e57917056c9c10ecff
+PODFILE CHECKSUM: 64710568ff05076cf7bfb04460cff3a2f53d3603
 
 COCOAPODS: 1.8.4
